@@ -1,6 +1,8 @@
 /*
 ---------------Problem Statement---------------
-Given A Positive Number X. Find The Largest Jumping Number Which Is Smaller Than Or Equal To X. A Number Is Called Jumping Number If All Adjacent Digits In It Differ By Only 1. All Single-Digit Numbers Are Considered As Jumping Numbers. For Example 7, 8987 And 4343456 Are Jumping Numbers But 796, 677 And 89098 Are Not.
+Given A Positive Number X. Find The Largest Jumping Number Which Is Smaller Than Or Equal To X. 
+A Number Is Called Jumping Number If All Adjacent Digits In It Differ By Only 1. 
+All Single-Digit Numbers Are Considered As Jumping Numbers. For Example 7, 8987 And 4343456 Are Jumping Numbers But 796, 677 And 89098 Are Not.
 
 Input : 50
 Output: 45 
